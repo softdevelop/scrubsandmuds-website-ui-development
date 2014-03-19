@@ -1,0 +1,116 @@
+.orderIngredients h3 {
+	font-size: 20px;
+	color: #666666;
+	padding: 31px 0 0 42px;
+}
+#content2 .content2Inner .orderIngredients {
+	min-height: 379px;
+}
+.yourlabel {
+	width: 61px;
+	float: left;
+	text-align: center;
+	margin: 54px 0 0 41px;
+}
+.yourlabel h6 {
+	font-size: 10px;
+	color: #666666;
+	padding-bottom: 10px;
+}
+.yourlabel div {
+	margin-top: 10px;
+}
+.yourlabel div  .plus {
+	background: url("../media/images/tour_report_plus.png") no-repeat;
+	width: 11px;
+	height: 11px;
+	float: left;
+}
+.yourlabel div  .change {
+	background: url("../media/images/tour_report_changelabel.png") no-repeat;
+	width: 48px;
+	height: 11px;
+}
+.yourlabel div input {
+	border: 0;
+}
+.form_report {
+	width: 230px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 52px;
+}
+.form_report form {
+	float: left;
+	color: #707070;
+}
+.form_report form img {
+	float: right;
+}
+.form_report form input {
+	float: right;
+	border: #adb3b9 solid 1px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #c6c8ca; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c6c8ca 0%, #fcfdfd 31%, #fcfdfd 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c6c8ca), color-stop(31%,#fcfdfd), color-stop(100%,#fcfdfd)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c6c8ca', endColorstr='#fcfdfd',GradientType=0 ); /* IE6-9 */
+}
+.ingredientslist {
+	width: 208px;
+	float: left;
+	margin-left: 69px;
+	margin-top: 24px;
+}
+.ingredientslist h4 {
+	color: #666666;
+}
+.ingredientslist .list { 
+	margin-top: 15px;
+	background: url("../media/images/tour_report_sticky.png") no-repeat;
+	height: 208px;
+}
+#content2 .content2Inner .ingredientslist .list .list1 p {
+	display: inline-block;
+	width: auto;
+	line-height: 19px;
+	padding-top: 0px;
+}
+#content2 .content2Inner .ingredientslist .list div:first-child {
+	padding-top: 17px;
+}
+#content2 .content2Inner .ingredientslist .list .list1 p:first-child{
+	width: 52px;
+	text-align: center;
+}
+.total {
+	width: 121px;
+	float: left;
+	margin-left: 34px;
+	margin-top: 52px;
+}
+#content2 .content2Inner .total p {
+	display: inline-block;
+	width: auto;
+	padding-top: 0px;
+	font-size: 15px;
+	color: #666666;
+}
+#content2 .content2Inner .total p:first-child{
+	width: 61px;
+	text-align: center;
+}
+#content2 .content2Inner .total div {
+	background: #f2f2f2;
+	border: #ebebeb solid 1px;
+	margin-bottom: 9px;
+}
+#content2 .content2Inner .total ul li {
+	margin-top: 9px;
+}
