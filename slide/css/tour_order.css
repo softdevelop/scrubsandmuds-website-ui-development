@@ -1,0 +1,100 @@
+#content2 .content2Inner .orderIngredients {
+	background: #fff;
+	min-height: 333px;
+	width: 822px;
+	display: inline-block;
+}
+#content2 .content2Inner {
+	padding-top: 90px;
+	padding-bottom: 155px;
+}
+#content2 .content2Inner h3 {
+	padding-bottom: 30px;
+}
+.item {
+	padding-top: 70px;
+	padding-left: 62px;
+	
+}
+.orderLeft {
+	width: 319px;
+	float: left;
+}
+.formItem input {
+	margin: 0 2px;
+	border: 0px;
+}
+.formItem input:nth-child(2),.formItem input:nth-child(3),.formItem input:nth-child(4) {
+	border: #adb3b9 solid 1px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #c6c8ca; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c6c8ca 0%, #fcfdfd 31%, #fcfdfd 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c6c8ca), color-stop(31%,#fcfdfd), color-stop(100%,#fcfdfd)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c6c8ca', endColorstr='#fcfdfd',GradientType=0 ); /* IE6-9 */
+	height: 28px;
+	padding-left: 2px;
+}
+.btn_add {
+	background: url("../media/images/tour_order_plus_grey.png") no-repeat;
+}
+.btn_close {
+	background: url("../media/images/tour_order_cross_grey.png") no-repeat;
+}
+.formItem {
+	margin-top: 7px;
+}
+.formItem input:nth-child(2) {
+	width: 29px;
+}
+.formItem input:nth-child(3) {
+	width: 51px;
+}
+.formItem input:nth-child(4){
+	width: 106px;
+}
+.addItem {
+	margin-top: 32px;
+	margin-left: 106px;
+}
+.orderRight {
+	float: right;
+	margin-top: 34px;
+	margin-right: 39px;
+	width: 250px;
+}
+.orderRight .payments1{
+	float: right;
+	display: block;
+}
+.orderRight .payments {
+	clear: both;
+	padding-top: 20px;
+}
+.orderRight .payments input:first-child{
+	border: #adb3b9 solid 1px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #c6c8ca; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c6c8ca 0%, #fcfdfd 31%, #fcfdfd 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c6c8ca), color-stop(31%,#fcfdfd), color-stop(100%,#fcfdfd)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c6c8ca', endColorstr='#fcfdfd',GradientType=0 ); /* IE6-9 */
+	height: 28px;
+	padding-left: 2px;
+	width: 29px;
+}
+.creditcard {
+	clear: both;
+	float: right;
+	margin-top: 114px;
+}

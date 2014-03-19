@@ -1,0 +1,66 @@
+#content2 .content2Inner {
+	width: 825px;
+	padding-top: 76px;
+	
+}
+#content2 .content2Inner .orderIngredients {
+	width: 822px;
+	display: inline-block;
+}
+.form {
+	width: 758px;
+	margin: 0 auto;
+}
+.formproject input {
+	border: 0px;
+	margin: 10px 4px 0px 4px;
+}
+.formproject .project, .formproject .reduction, .formproject .weather, .formproject .skin {
+	border: #adb3b9 solid 1px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #c6c8ca; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c6c8ca 0%, #fcfdfd 31%, #fcfdfd 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c6c8ca), color-stop(31%,#fcfdfd), color-stop(100%,#fcfdfd)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c6c8ca', endColorstr='#fcfdfd',GradientType=0 ); /* IE6-9 */
+	height: 28px;
+	width: 111px;
+}
+.project {
+	width: 106px;
+}
+.report {
+	text-align: center;
+	padding-bottom: 34px;
+}
+.report a {
+	margin-left: 21px;
+}
+.cross {
+	background: url("../media/images/tour_order_cross_grey.png") no-repeat;
+}
+.minus {
+	background: url("../media/images/tour_project_manager_minus.png") no-repeat;
+	width: 21px;
+	height: 21px;
+}
+.plus {
+	background: url("../media/images/tour_project_manager_plus.png") no-repeat;
+	width: 21px;
+	height: 21px;
+}
+.order {
+	background: url("../media/images/tour_project_manager_order.png") no-repeat;
+	width: 48px;
+	height: 21px;
+}
+.image {
+	background: url("../media/images/tour_project_manager_images1.png") no-repeat;
+	width: 106px;
+	height: 55px;
+}
