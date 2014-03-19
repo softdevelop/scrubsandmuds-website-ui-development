@@ -1,0 +1,70 @@
+#content1 {
+	background: #fff url("../media/images/faq_03.png") repeat-x;
+	height: 17px;
+}
+#content2 {
+	min-height: 95px;
+	padding: 0px;
+}
+#content2 .content2Inner {
+	width: 828px;
+	margin: 0 auto;
+	color: #3394cd;
+}
+#content2 .content2Inner p {
+	display: inline-block;
+}
+#content2 .content2Inner .faqleft {
+	float: left;
+	display: block;
+	padding-top: 21px;
+}
+#content2 .content2Inner .faqleft h3 {
+	font-family: Designosaur-regular;
+	font-size: 30px;
+}
+#content2 .content2Inner .faqleft p {
+	font-family: candara;
+	font-size: 18px;
+}
+#content2 .content2Inner .faqright {
+	float: right;
+	width: 221px;
+	display: block;
+	text-align: right;
+	padding-top: 35px;
+}
+#content2 .content2Inner .faqright p {
+	font-family: candarai;
+	font-size: 16px;
+	text-shadow: #82bcde 0.5px 0;
+}
+/*-----------faq content3-------*/
+#content3 {
+	background: #fff;
+	width: 100%;
+	height: auto;
+	padding: 10px 0 40px 0;
+}
+#content3 .content3Inner {
+	width: 877px;
+	margin: 0 auto;
+}
+#content3 .content3Inner .content3Body {
+	width: 828px;
+	margin: 0 auto;
+	padding: 22px 0 19px 0;
+	color: #666666;
+}
+#content3 .content3Inner .content3Body h4 {
+	font-family: candarab;
+	font-size: 18px;
+}
+#content3 .content3Inner .content3Body p {
+	font-family: candara;
+	padding-top: 10px;
+}
+#content3 .content3Inner .divider {
+	background: #b3b3b3;
+	height: 1px;
+}

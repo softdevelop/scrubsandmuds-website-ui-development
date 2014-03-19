@@ -1,0 +1,8 @@
+#content2 .content2Inner .select{
+	width: 618px;
+	margin: 0 auto;
+	padding: 74px 0 60px 0;
+}
+#content2 .content2Inner .select a:last-child {
+	float: right;
+}

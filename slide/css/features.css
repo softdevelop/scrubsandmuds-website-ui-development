@@ -1,0 +1,45 @@
+#content1 .content1Inner {
+	min-height: 152px;
+}
+#content1 .content1Inner .tour {
+	width: 426px;
+}
+#content1 .content1Inner .tour p {
+	font-size: 17px;
+}
+#content2 {
+	padding: 0;
+}
+#content2 .content2Inner {
+	width: 752px;
+	margin: 0 auto;
+	height: auto;
+	text-align: center;
+	
+}
+
+#content2 .content2Inner .content21 {
+	width: 100%;
+}
+#content2 .content2Inner .content21 h3 {
+	font-size: 20px;
+	font-family: candarab;
+	color: #419bd0;
+	padding-top: 21px;
+}
+#content2 .content2Inner .content21 p {
+	padding-top: 30px;
+}
+#content2 .content2Inner .scrub {
+	padding-top: 45px;
+}
+#content2 .content2Inner .project {
+	padding-top: 69px;
+}
+#content2 .content2Inner .auto {
+	padding-top: 76px;
+} 
+#content2 .content2Inner .loyalty {
+	padding-top: 73px;
+	padding-bottom: 59px;
+}

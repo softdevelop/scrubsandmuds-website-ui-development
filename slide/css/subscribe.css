@@ -1,0 +1,25 @@
+#content1 {
+	background: #fff url("../media/images/faq_03.png") repeat-x;
+	height: 17px;
+}
+#content2 {
+	min-height: 283px;
+	padding: 0;
+}
+#content2 .content2Inner {
+	width: 822px;
+	margin: 0 auto;
+	color: #3394cd;
+	padding-top: 21px;
+}
+#content2 .content2Inner h3 {
+	font-size: 30px;
+	font-family: Designosaur-regular;
+}
+#content2 .content2Inner p {
+	font-size: 18px;
+	width: 772px;
+	line-height: 21px;
+	padding-top: 30px;
+	font-family: candara;
+}

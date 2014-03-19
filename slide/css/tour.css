@@ -1,0 +1,203 @@
+@font-face {
+	font-family: candara;
+	src: url("../fonts/CANDARA.ttf");
+}
+@font-face {
+	font-family: candarab;
+	src: url("../fonts/CANDARAB.ttf");
+}
+@font-face {
+	font-family: candarai;
+	src: url("../fonts/CANDARAI.ttf");
+}
+@font-face {
+	font-family: Designosaur-italic;
+	src: url("../fonts/Designosaur-Italic.otf");
+}
+@font-face {
+	font-family: Designosaur-regular;
+	src: url("../fonts/Designosaur-Regular.otf");
+}
+#header {
+	min-height: 129px;
+}
+#header .headerInner {
+	width:940px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+#header .headerInner .menu {
+	float: right;
+	padding-top: 7px;
+}
+#header .headerInner .menu ul li {
+	float: left;
+	margin: 0 5px;
+}
+#header .headerInner .menu ul li:last-child {
+	float: left;
+	margin-right: -1px;
+}
+/*------------content1---------*/
+#content {
+	background: #fff url("../media/images/tour_02.png") repeat;
+}
+#content1 {
+	background-color: #71bb59;
+}
+#content1 .divider {
+	background: #99cc88 url(../media/images/tour_03.png) repeat-x;
+	height: 14px;
+}
+#content1 .content1Inner {
+	min-height: 265px;
+	width: 832px;
+	margin: 0 auto;
+}
+#content1 .content1Inner .tour {
+	width: 525px;
+	padding-top: 25px;
+	float: left;
+}
+#content1 .content1Inner .tour h2, #content1 .content1Inner .tour p {
+	color: #fff;
+	line-height: 20px;
+	
+}
+
+#content1 .content1Inner .tour h2 {
+	font-family: Designosaur-regular;
+	font-size: 30px;
+}
+#content1 .content1Inner .tour p {
+	font-family: candarai;
+	padding-top: 12px;
+	font-size: 18px;
+}
+#content1 .content1Inner .map {
+	float: right;
+	margin-top: 50px;
+	margin-right: 5px;
+}
+#content2 {
+	padding: 79px 0 88px 0;
+	min-height: 440px;
+}
+#content2 .content2Inner {
+	width: 732px;
+	margin: 0 auto;
+}
+#content2 .content2Inner .content21 {
+	width: 167px;
+	float: left;
+	margin-right: 30px;
+	text-align: center;
+}
+#content2 .content2Inner .content21 img, #content2 .content2Inner .content21 h6, #content2 .content2Inner .content21 p {
+	text-align: center;
+}
+#content2 .content2Inner .content21 h6 {
+	padding-top: 16px;
+	width: 79px;
+	margin: 0 auto;
+	line-height: 20px;
+	color: #666666;
+	font-size: 20px;
+	font-family: candarab;
+}
+#content2 .content2Inner .content21 p {
+	color: #3394cd;
+	padding-top: 10px;
+	line-height: 18px;
+	font-family: candara;
+
+}
+#content2 .content2Inner .content21 a {
+	color: #72bb5a;
+	text-decoration: none;
+	padding-top: 20px;
+	line-height: 35px;
+	font-family: candarab;
+	font-size: 12px;
+}
+#content2 .content2Inner .manage {
+	margin-right: 28px;
+}
+#content2 .content2Inner .manage h6 {
+	width: 115px;
+}
+#content2 .content2Inner .inspiration {
+	width: 157px;
+	margin-right: 30px;
+}
+#content2 .content2Inner .inspiration h6 {
+	width: 135px;
+}
+#content2 .content2Inner .sell {
+	width: 151px;
+	margin-right: 0px;
+}
+#content3 {
+	background: #fff url("../media/images/dot.png") repeat-x;
+	width: 928px;
+	height: 5px;
+	margin: 0 auto;
+	clear: both;
+}
+#content4 .content4Inner {
+	width: 832px;
+	margin: 0 auto;
+	padding: 59px 0 56px 0;
+	min-height: 169px;
+}
+#content4 .content4Inner .howto{ 
+	width: 490px;
+	float: left;
+}
+#content4 .content4Inner .howto h5 {
+	color: #666666;
+	font-size: 20px;
+	font-family: candarab;
+}
+#content4 .content4Inner .howto p {
+	color: #666666;
+	font-size: 17px;
+	font-family: candara;
+}
+#content4 .content4Inner .buttonJoin {
+	float: right;
+	margin-right: 10px;
+}
+#content4 .content4Inner .buttonJoin ul li:first-child {
+	margin-bottom: 10px;
+}
+/*-----------footer-------*/
+#footer {
+	clear: both;
+	min-height: 69px;
+	background-color: #f4f4f4;
+}
+#footer  .footerLine{
+	background: #fff url("../media/images/footer_line_03.png") repeat-x;
+	height: 12px;
+	
+}
+#footer  .footerInner{
+	width: 940px;
+	margin: 0 auto;
+	padding-top: 18px;
+	padding-bottom: 30px;
+}
+#footer  .footerInner .connect{
+	float: right;
+}
+
+#footer  .footerInner  p {
+	color: #4da1d2;
+	font-size: 20px;
+	display: inline-block;
+}
+#footer  .footerInner .connect ul li{
+	float: left;
+	margin: 0 12px;
+}
