@@ -6,3 +6,21 @@
 #content2 .content2Inner .select a:last-child {
 	float: right;
 }
+.select a {
+	width: 260px;
+	height: 53px;
+	
+}
+.select a.selectorder {
+	background: url("../media/images/tour_manage_order_on.png") no-repeat;
+	display: inline-block;
+}
+.select a.selectorder:hover {
+	background: url("../media/images/tour_manage_order_hover.png") no-repeat;
+}
+.select a.selectmanager {
+	background: url("../media/images/tour_manage_project_on.png") no-repeat;
+}
+.select a.selectmanager:hover {
+	background: url("../media/images/tour_manage_project_hover.png") no-repeat;
+}

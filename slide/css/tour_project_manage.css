@@ -6,15 +6,29 @@
 #content2 .content2Inner .orderIngredients {
 	width: 822px;
 	display: inline-block;
+	padding: 100px 0 50px 0;
+	min-height: 0px;
 }
 .form {
 	width: 758px;
 	margin: 0 auto;
 }
+.formproject {
+	float:left;
+	clear:left;
+	margin-bottom: 10px;
+}
 .formproject input {
 	border: 0px;
-	margin: 10px 4px 0px 4px;
+	margin-right: 10px;
+	float:left;
+	margin-top: 18px;
+	
 }
+.formproject input[type=button] {
+	margin-top: 21px;
+}
+
 .formproject .project, .formproject .reduction, .formproject .weather, .formproject .skin {
 	border: #adb3b9 solid 1px;
 	-webkit-border-radius: 5px;
@@ -63,4 +77,10 @@
 	background: url("../media/images/tour_project_manager_images1.png") no-repeat;
 	width: 106px;
 	height: 55px;
+}
+
+.orderIngredients .addItem 
+{
+	margin-left: 57px;
+	float:left;
 }

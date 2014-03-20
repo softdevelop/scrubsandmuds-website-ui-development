@@ -47,8 +47,13 @@
 .form_report form img {
 	float: right;
 }
-.form_report form input {
-	float: right;
+.form_report label {
+	float:left;
+	width: 80px;
+	margin-top: 5px;
+	font-weight: bold;
+}
+.form_report form input {	
 	border: #adb3b9 solid 1px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -61,6 +66,12 @@
 	background: -ms-linear-gradient(top,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #c6c8ca 0%,#fcfdfd 31%,#fcfdfd 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c6c8ca', endColorstr='#fcfdfd',GradientType=0 ); /* IE6-9 */
+	width: 142px;
+	height: 25px;
+}
+.form_report .row {
+	float: left;
+	margin-bottom: 17px;
 }
 .ingredientslist {
 	width: 208px;

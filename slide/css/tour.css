@@ -34,6 +34,57 @@
 	float: left;
 	margin: 0 5px;
 }
+
+#header .headerInner .menu ul li a.menuhome:hover{
+	background: url("../media/images/tour_hover.png") no-repeat;
+}
+
+#header .headerInner .menu ul li  a{
+	width: 76px;
+	height: 31px;
+}
+#header .headerInner .menu ul li a.menuhome{
+	background: url("../media/images/tour_home_on.png") no-repeat;
+	width: 76px;
+	height: 31px;
+	display: block;
+}
+#header .headerInner .menu ul li a.menujoin:hover{
+	background: url("../media/images/tour_join_on.png") no-repeat;
+}
+#header .headerInner .menu ul li a.menujoin{
+	background: url("../media/images/tour_join_hover.png") no-repeat;
+	width: 76px;
+	height: 31px;
+	display: block;
+}
+#header .headerInner .menu ul li a.menutour:hover{
+	background: url("../media/images/tour_tour_hover.png") no-repeat;
+}
+#header .headerInner .menu ul li a.menutour{
+	background: url("../media/images/tour_tour_on.png") no-repeat;
+	width: 76px;
+	height: 31px;
+	display: block;
+}
+#header .headerInner .menu ul li a.menublog:hover{
+	background: url("../media/images/blog_hover.png") no-repeat;
+}
+#header .headerInner .menu ul li a.menublog{
+	background: url("../media/images/tour_blog_on.png") no-repeat;
+	width: 76px;
+	height: 31px;
+	display: block;
+}
+#header .headerInner .menu ul li a.menufaq:hover{
+	background: url("../media/images/faq_hover.png") no-repeat;
+}
+#header .headerInner .menu ul li a.menufaq{
+	background: url("../media/images/tour_faq_on.png") no-repeat;
+	width: 76px;
+	height: 31px;
+	display: block;
+}
 #header .headerInner .menu ul li:last-child {
 	float: left;
 	margin-right: -1px;
@@ -171,6 +222,28 @@
 #content4 .content4Inner .buttonJoin ul li:first-child {
 	margin-bottom: 10px;
 }
+#content4 .content4Inner .buttonJoin ul li a {
+	width: 188px;
+	height: 72px;
+}
+#content4 .content4Inner .buttonJoin ul li a.btn_joinnow {
+	width: 188px;
+	height: 72px;
+	background: url("../media/images/tour_joinnow_on.png") no-repeat;
+	display: block;
+}
+#content4 .content4Inner .buttonJoin ul li a.btn_joinnow:hover {
+	background: url("../media/images/tour_joinnow_hover.png") no-repeat;
+}
+#content4 .content4Inner .buttonJoin ul li a.btn_gift {
+	width: 188px;
+	height: 72px;
+	background: url("../media/images/tour_gift_on.png") no-repeat;
+	display: block;
+}
+#content4 .content4Inner .buttonJoin ul li a.btn_gift:hover {
+	background: url("../media/images/tour_gift_hover.png") no-repeat;
+}
 /*-----------footer-------*/
 #footer {
 	clear: both;
@@ -201,3 +274,6 @@
 	float: left;
 	margin: 0 12px;
 }
+
+/** ADD BY HOANG **/
+

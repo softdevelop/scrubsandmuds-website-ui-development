@@ -1,8 +1,9 @@
 #content2 .content2Inner .orderIngredients {
 	background: #fff;
-	min-height: 333px;
+	/*min-height: 333px;*/
 	width: 822px;
 	display: inline-block;
+	padding-bottom: 30px;
 }
 #content2 .content2Inner {
 	padding-top: 90px;
@@ -12,9 +13,9 @@
 	padding-bottom: 30px;
 }
 .item {
-	padding-top: 70px;
+	padding-top: 80px;
 	padding-left: 62px;
-	
+	float: left;
 }
 .orderLeft {
 	width: 319px;
@@ -48,7 +49,15 @@
 }
 .formItem {
 	margin-top: 7px;
+	float:left;
 }
+.formItem input 
+{
+	float: left;
+}
+.orderLeft .formItem  input.btn_add , .orderLeft .formItem  input.btn_close {
+	margin-top: 8px;
+} 
 .formItem input:nth-child(2) {
 	width: 29px;
 }
@@ -60,7 +69,8 @@
 }
 .addItem {
 	margin-top: 32px;
-	margin-left: 106px;
+	margin-left: 80px;
+	float: left;
 }
 .orderRight {
 	float: right;
@@ -77,6 +87,8 @@
 	padding-top: 20px;
 }
 .orderRight .payments input:first-child{
+	float:left;
+	margin-right: 4px;
 	border: #adb3b9 solid 1px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -97,4 +109,14 @@
 	clear: both;
 	float: right;
 	margin-top: 114px;
+}
+
+.btn_add, .btn_close {
+	cursor: pointer;
+}
+.btn_add:hover {
+	background: url('../media/images/tour_order_plus_blue.png') no-repeat;
+}
+.btn_close:hover {
+	background: url('../media/images/tour_order_cross_red.png') no-repeat;
 }
