@@ -1,0 +1,76 @@
+#content1 {
+	background: #fff url("../media/images/faq_03.png") repeat-x;
+	height: 17px;
+}
+#content11 {
+	width: 940px;
+	margin: 0 auto;
+	margin-top: 27px;
+}
+#content2 {
+	padding: 17px 0 41px 0;
+}
+#content2 .content2Inner {
+	width: 774px;
+	margin: 0 auto;
+	position: relative;
+	height: 995px;
+}
+#content2 .content2Inner .gallery {
+	width: 722px;
+	margin: 0 auto;
+	height: 995px;
+	position: relative;
+    overflow: hidden;
+}
+#content2 .content2Inner .gallery >ul {
+	width: 1000px;
+	position: relative;
+}
+#content2 .content2Inner .gallery >ul >li {
+	float: left;
+}
+#content2 .content2Inner .gallery ul li ul li{
+	float: left;
+}
+#content2 .content2Inner .gallery ul li ul li{
+	margin: 20px 16px;
+}
+#content2Innerleft {
+	position: absolute;
+	left: 0;
+	bottom: 50px;
+}
+#content2Innerright {
+	position: absolute;
+	right: 0;
+	bottom: 50px;
+}
+.jcarousel-wrapper {
+	border: 0;
+	box-shadow: 0 0 0;
+}
+.jcarousel {
+	margin: 0 27px;
+	width: 720px;
+}
+.jcarousel>ul>li >ul>li {
+	float: left;
+	margin: 20px 16px;
+	width: 208px;
+	height: 210px;
+}
+.jcarousel-control-prev, .jcarousel-control-next {
+	position: absolute;
+	bottom: 23px;
+	width: 18px;
+	height: 27px;
+}
+.jcarousel-control-prev {
+	background: url("../media/images/gallery_left.png") no-repeat;
+	left: 0px;
+}
+.jcarousel-control-next{
+	background: url("../media/images/gallery_right.png") no-repeat;
+	right: 0px;
+}

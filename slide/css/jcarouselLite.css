@@ -1,0 +1,7 @@
+.wd-jcarouselLite{position:relative;height:80px;}
+.wd-jcarouselLite .wd-jcarouselLite-content{margin: 0 25px;}
+.wd-jcarouselLite .wd-jcarouselLite-content ul li{padding: 5px 4px}
+.wd-jcarouselLite a.prev{float:left;height: 51px;width:13px;position:absolute;background:url(../images/ico-arrow-1.gif) no-repeat;top:17px;left:7px}
+.wd-jcarouselLite a.next{float:right;height: 51px;width:13px;position:absolute;background:url(../images/ico-arrow-1.gif) no-repeat -13px top;top:17px;right:5px;}
+.wd-jcarouselLite a.next:hover{ background-position: -13px -51px; } 
+.wd-jcarouselLite a.prev:hover{ background-position: left -51px; }

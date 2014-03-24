@@ -1,0 +1,26 @@
+#content1 {
+	background: #fff url("../media/images/faq_03.png") repeat-x;
+	height: 17px;
+}
+#content2 {
+	min-height: 560px;
+	padding: 0;
+}
+#content2 .content2Inner {
+	width: 822px;
+	margin: 0 auto;
+}
+#content2 .content2Inner h1 {
+	font-size: 30px;
+	color: #3394cd;
+	font-family: Designosaur-regular;
+	margin-top: 21px;
+}
+#content2 .content2Inner p {
+	width: 790px;
+	color: #3394cd;
+	font-family: candara;
+	margin-bottom: 67px;
+	margin-top: 45px;
+	font-size: 18px;
+}
