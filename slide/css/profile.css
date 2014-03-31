@@ -1,0 +1,46 @@
+.profilecontentInner {
+	width: 822px;
+	margin: 0 auto;
+	padding-bottom: 83px;
+}
+.profile h3 {
+	color: #3394cd;
+	font-size: 30px;
+	font-family: Designosaur-regular;
+	line-height: 70px;
+}
+.selecttype {
+	clear: both;
+	padding-top: 15px;
+}
+.selecttype p, .selecttype select {
+	float: left;
+}
+.selecttype p {
+	width: 140px;
+	font-family: Helvetica;
+	font-weight: bold;
+	color: #666666;
+}
+.selecttype select {
+	width: 143px;
+	height: 21px;
+}
+.object select {
+	width: 198px;
+}
+.profile form{
+	padding-top: 15px;
+	clear: both;
+	margin-left: 140px;
+}
+.profile >input {
+	background: #fff url(../media/images/profile_save_on.png) no-repeat;
+	width: 65px;
+	height: 37px;
+	border: 0;
+	margin: 34px 0 0 188px;
+}
+.profile >input:hover {
+	background: #fff url(../media/images/profile_save_hover.png) no-repeat;
+}

@@ -2,13 +2,22 @@
 	font-family: candara;
 	src: url("../fonts/CANDARA.ttf");
 }
+
+@font-face {
+	font-family: CANDARAI;
+	src: url("../fonts/CANDARAI.ttf");
+}
+@font-face {
+	font-family: Helveticab;
+	src: url("../fonts/HelveticaLTStd-Bold.otf");
+}
 @font-face {
 	font-family: candarab;
 	src: url("../fonts/CANDARAB.ttf");
 }
 @font-face {
-	font-family: candarai;
-	src: url("../fonts/CANDARAI.ttf");
+	font-family: HelveticaLTStd-Obl;
+	src: url("../fonts/HelveticaLTStd-Obl.otf");
 }
 @font-face {
 	font-family: Designosaur-italic;
@@ -17,6 +26,14 @@
 @font-face {
 	font-family: Designosaur-regular;
 	src: url("../fonts/Designosaur-Regular.otf");
+}
+@font-face {
+	font-family: HelveticaLTStd-Roman;
+	src: url("../fonts/HelveticaLTStd-Roman.otf");
+}
+@font-face {
+	font-family: HelveticaLTStd-Cond;
+	src: url(../fonts/HelveticaLTStd-Cond.otf);
 }
 #header {
 	min-height: 129px;
@@ -274,6 +291,12 @@
 	float: left;
 	margin: 0 12px;
 }
-
+#dot {
+background: #fff url("../media/images/dot.png") repeat-x;
+width: 928px;
+height: 5px;
+margin: 0 auto;
+clear: both;
+}
 /** ADD BY HOANG **/
 

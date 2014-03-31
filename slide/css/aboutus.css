@@ -1,0 +1,57 @@
+#aboutuscontent {
+	background-color: #3394cd;
+	height: 208px;
+}
+#aboutuscontent .aboutuscontentInner {
+	width: 822px;
+	margin: 0 auto;
+}
+#aboutuscontent .aboutuscontentInner h3 {
+	color: #fff;
+	font-family: Designosaur-regular;
+	padding: 10px 0px;
+	font-size: 29px;
+}
+#aboutuscontent .aboutuscontentInner p {
+	color: #fff;
+	font-family: candara;
+	line-height: 18px;
+}
+#aboutusbody {
+	min-height: 840px;
+}
+#aboutusbody .aboutusInner {
+	width: 822px;
+	margin: 0 auto;
+}
+.Scrubsand  {
+	padding-left: 35px;
+	padding-top: 30px;
+}
+.Scrubsand:first-child {
+	padding-left: 0px;
+}
+.Scrubsand p {
+	color: #3394cd;
+	font-family: candara;
+}
+.Scrubsand strong {
+	font-weight: bold;
+	font-family: candara;
+}
+.scrubsand1 {
+	width: 393px;
+	float: left;
+	text-align: center;
+}
+.scrubsand1 img {
+	margin-bottom: 25px;
+}
+.learnmore {
+	width: 246px;
+	margin: 0 auto;
+}
+.reach {
+	width: 259px;
+	margin: 0 auto;
+}

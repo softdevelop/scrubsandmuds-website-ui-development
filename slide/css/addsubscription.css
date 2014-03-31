@@ -1,0 +1,123 @@
+.addsubInner {
+	width: 822px;
+	margin: 0 auto;
+	padding: 23px 0 94px 0;
+}
+.addsubInner h3 {
+	color: #3394cd;
+	font-size: 30px;
+	font-family: Designosaur-regular;
+	padding-bottom: 23px;
+}
+.addsubInner p {
+	font-family: Helvetica;
+	color: #666666;
+}
+.addsub {
+	clear: both;
+	padding-top: 15px;
+}
+.addsub p, .addsub select{
+	float: left;
+}
+.addsub p {
+	width: 144px;
+}
+.addsub select {
+	width: 143px;
+}
+.addsubInner >input {
+	clear: both;
+	display: block;
+	background: url(../media/images/add_subsciption_gift_on.png) no-repeat;
+	width: 124px;
+	height: 30px;
+	border: 0;
+	margin: 51px 0 17px 0;
+}
+.addsubInner >input:hover{
+	background: url(../media/images/add_subsciption_gift_hover.png) no-repeat;
+}
+.addanother {
+	background: #fff;
+	width: 516px;
+	height: 301px;
+	position: relative;
+	margin-left: 6px;
+}
+.addanother a {
+	position: absolute;
+	background: url(../media/images/add_subsciption_close.png) no-repeat;
+	top: -6px;
+	left: -6px;
+	width: 12px;
+	height: 12px;
+}
+.addanother1 {
+	clear: both;
+	margin-left:22px;
+	padding-top: 14px;
+}
+.addanother1 p, .addanother1 input {
+	float: left;
+}
+.addanother1 p {
+	width: 133px;
+}
+.name input {
+	width: 132px;
+}
+.address input {
+	width: 300px;
+}
+.postcode input {
+	width: 80px;
+}
+.buttonadd {
+	clear: both;
+	margin-left: 155px;
+	padding-top: 33px;
+}
+.buttonadd input {
+	margin-right: 22px;
+	border: 0;
+}
+.buttonadd input:first-child{
+	background: url(../media/images/add_subsciption_add_on.png) no-repeat;
+	width:123px;
+	height:30px;
+}
+.buttonadd input:first-child:hover{
+	background: url(../media/images/add_subsciption_add_hover.png) no-repeat;
+}
+.buttonadd input:last-child{
+	background: url(../media/images/add_subsciption_done_on.png) no-repeat;
+	width:88px;
+	height:30px;
+}
+.buttonadd input:last-child:hover{
+	background: url(../media/images/add_subsciption_done_hover.png) no-repeat;
+}
+.buttonback {
+	margin: 38px 0 0 263px;
+}
+.buttonback input {
+	margin-right: 18px;
+	border: 0;
+}
+.buttonback input:first-child {
+	background: url(../media/images/add_subsciption_add_paymenton.png) no-repeat;
+	width:154px;
+	height:29px;
+}
+.buttonback input:first-child:hover {
+	background: url(../media/images/add_subsciption_add_payment_hover.png) no-repeat;
+}
+.buttonback input:last-child {
+	background: url(../media/images/add_subsciption_back_on.png) no-repeat;
+	width:88px;
+	height:29px;
+}
+.buttonback input:last-child:hover {
+	background: url(../media/images/add_subsciption_back_hover.png) no-repeat;
+}

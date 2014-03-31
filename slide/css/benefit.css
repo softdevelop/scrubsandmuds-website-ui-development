@@ -1,0 +1,40 @@
+#content1 .content1Inner {
+	min-height: 124px;
+}
+#benefitContent {
+	margin: 41px 0 30px 0;
+}
+#benefitContent .benefitContentInner{
+	width: 824px;
+	margin: 0 auto;
+}
+.doit {
+	clear: both;
+	margin: 25px 0;
+	display: inline-block;
+}
+.doitimage {
+	width: 120px;
+	float: left;
+}
+.doitbody {
+	width: 659px;
+	float: left;
+	padding-left: 45px;
+	color: #3394cd;
+	font-family: candara;
+}
+.doitbody h3 {
+	font-weight: bold;
+	font-size: 18px;
+	margin: 10px 0;
+}
+.doitbody p {
+	
+}
+.doitbody a {
+	color: #72bb5a;
+	text-decoration: none;
+	font-family: candarab;
+	font-size: 12px;
+} 

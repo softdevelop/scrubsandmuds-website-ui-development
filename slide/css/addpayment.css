@@ -1,0 +1,89 @@
+.addpaymentcontentInner {
+	width: 822px;
+	margin: 0 auto;
+	padding: 28px 0 51px 0;
+}
+.addpaymentcontentInner h3, .addpaymentcontentInner h4 {
+	color: #3394cd;
+	font-family: Designosaur-regular;
+}
+.addpaymentcontentInner h3 {
+	font-size: 25px;
+}
+.addpaymentcontentInner h4 {
+	font-size: 30px;
+	padding-bottom: 13px;
+}
+.addpay {
+	background: #fff;
+	width: 637px;
+	height: 409px;
+	padding-top: 32px;
+}
+.paytype {
+	clear: both;
+	margin-left: 40px;
+	padding-top: 15px;
+}
+.paytype p, .paytype select, .paytype input {
+	float: left;
+	font-family: Helvetica;
+	color: #666666;
+}
+.paytype p {
+	width: 136px;
+}
+.card input {
+	width: 296px;
+	height: 22px;
+}
+.master  select{
+	width: 121px;
+}
+.security {
+	width: 136px;
+}
+.security p:first-child {
+	padding-top: 10px;
+}
+.security p:last-child {
+	font-size: 8px;
+}
+.security1 input{
+	width: 38px;
+	margin-top: -10px;
+}
+.expire select {
+	margin-right: 16px;
+}
+.paytype input {
+	float: left;
+}
+.bill input {
+	width: 121px;
+	margin-top: -10px;
+
+}
+.add {
+	clear: both;
+	margin-left: 280px;
+	padding-top: 35px;
+}
+.add input {
+	width: 87px;
+	height: 29px;
+	border: 0;
+	margin-right: 18px;
+}
+.add input:first-child {
+	background: #fff url(../media/images/add_payment_add_on.png) no-repeat;
+}
+.add input:first-child:hover{
+	background: #fff url(../media/images/add_payment_add_hover.png) no-repeat;
+}
+.add input:last-child {
+	background: #fff url(../media/images/add_payment_change_on.png) no-repeat;
+}
+.add input:last-child:hover{
+	background: #fff url(../media/images/add_payment_change_hover.png) no-repeat;
+}

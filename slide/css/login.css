@@ -1,0 +1,48 @@
+#content1 {
+	background: #fff url("../media/images/faq_03.png") repeat-x;
+	height: 17px;
+}
+
+#content2 {
+	min-height: 200px;
+	margin: 40px 0 30px 0;
+}
+#content2 .content2Inner {
+	width: 226px;
+	text-align: center;
+}
+#content2 .content2Inner  input {
+	display: block;
+	width: 100%;
+	padding-left: 3px;
+}
+#content2 .content2Inner  input {
+	border-top: 2px solid #a3a6a3;
+	height: 29px;
+	margin: 10px 0;
+}
+#content2 .content2Inner  input:nth-child(4) {
+	border: 0px;
+	background: url(../media/images/login_login_on.png) no-repeat;
+}
+#content2 .content2Inner  input:nth-child(4):hover {
+	border: 0px;
+	background: url(../media/images/login_login_hover.png) no-repeat;
+}
+#content2 .content2Inner ul {
+	float: right;
+}
+#content2 .content2Inner ul li {
+	float: left;
+	color: #808080;
+	margin: 0 2px;
+}
+#content2 .content2Inner h3 {
+	color: #3394cd;
+	font-size: 25px;
+	font-family: Designosaur-regular;
+}
+#content2 .content2Inner ul li  a {
+	color: #808080;
+	text-decoration: none;
+}
